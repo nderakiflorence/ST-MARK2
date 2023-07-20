@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126118085963",
+    "project_id": "newstmark-82577",
+    "storage_bucket": "newstmark-82577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126118085963:android:2e65ebac89605635d594ce",
+        "android_client_info": {
+          "package_name": "com.example.anew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126118085963-b827f81tehve78jdjk1h95htjbqiqbpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_5oTud9noV86xM2MCZdHQlWdSSwoelyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126118085963-b827f81tehve78jdjk1h95htjbqiqbpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
